@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "study",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "pray",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "yoga",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "cook",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
